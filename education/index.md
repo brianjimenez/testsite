@@ -1,9 +1,9 @@
 ---
-layout: page
-title: "Education & Tutorials of the Bonvin Lab"
+layout: single
+title: Education & Tutorials of the Bonvin Lab
 tags: [MODELLER, GROMACS, HADDOCK, molecular dynamics, homology modelling, docking, p53, MDM2]
-image:
-  feature: pages/banner_education-thin.jpg
+header:
+  overlay_image: /assets/images/main_banner.png
 ---
 In this page you can find links to our educational material, namely tutorials on the usage of our software and material for courses we teach at Utrecht University.
 
