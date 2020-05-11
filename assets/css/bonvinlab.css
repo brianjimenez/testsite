@@ -16,7 +16,7 @@
 }
 .page__hero--overlay h1 {
 	text-align: right;
-	font-size: 3.5em;
+	font-size: 3.0em !important;
 	text-shadow: 3px 3px 4px rgba(0,0,0,0.5);
 }
 
