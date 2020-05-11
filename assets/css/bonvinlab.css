@@ -93,6 +93,7 @@ page__footer-follow {
 .people li {
 	width: 23%;
 	border: 1px solid lightgray;
-	margin-right: 1em;
+	margin-right: 1%;
 	display: inline-block;
+	padding: 5px 10px;
 }
