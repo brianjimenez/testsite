@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-title: Education & Tutorials of the Bonvin Lab
+title: Education & Tutorials
 tags: [MODELLER, GROMACS, HADDOCK, molecular dynamics, homology modelling, docking, p53, MDM2]
 header:
   overlay_image: /assets/images/main_banner.png
