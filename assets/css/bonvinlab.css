@@ -1,4 +1,8 @@
-.archive__item-title a, a:visited {
+.archive__item-title a {
+	color: #4277c3;
+}
+
+.archive__item-title a:visited {
 	color: #4277c3;
 }
 
