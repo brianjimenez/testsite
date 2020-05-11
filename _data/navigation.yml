@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "News"
+    url: /news/
+  - title: "Education"
+    url: /education/
+  - title: "People"
+    url: /people/
+  - title: "Publications"
+    url: /publications/
+  - title: "Research"
+    url: /research/
+  - title: "Web Portals"
+    url: http://haddock.science.uu.nl
