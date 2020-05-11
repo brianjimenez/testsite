@@ -1,8 +1,17 @@
 /* Header */
+.page__hero--overlay {
+	padding: 2em 0;
+}
 .page__title {
 	text-align: right;
 	font-size: 3.5em;
 	text-shadow: 3px 3px 4px rgba(0,0,0,0.5);
+}
+
+.page__lead {
+	text-align: right;
+	float: right;
+	line-height: 0.5em;
 }
 
 /* Sidebar */
