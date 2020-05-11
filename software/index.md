@@ -2,8 +2,9 @@
 layout: single
 tags: [Jekyll, HADDOCK, Bonvin, Docking, Simulation, Molecular Dynamics, Structural Biology, Computational Biology, Modelling, Protein Structure]
 comments: false
-image:
-  feature: pages/banner_software.jpg
+title: Software
+header:
+  overlay_image: /assets/images/main_banner.png
 ---
 
 This page provide you links to software and software manuals of the computational structural biology group.

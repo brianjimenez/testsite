@@ -10,6 +10,18 @@
 	color: #264879;
 }
 
+.page__content a {
+	color: #4277c3;
+}
+
+.page__content a:visited {
+	color: #4277c3;
+}
+
+.page__content a:hover {
+	color: #264879;
+}
+
 /* Header */
 .page__hero--overlay {
 	padding: 2em 0;
