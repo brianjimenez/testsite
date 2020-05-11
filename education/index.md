@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: splash
+classes: wide
 title: Education & Tutorials of the Bonvin Lab
 tags: [MODELLER, GROMACS, HADDOCK, molecular dynamics, homology modelling, docking, p53, MDM2]
 header:

@@ -1,5 +1,6 @@
 ---
-layout: single
+layout: splash
+classes: wide
 tags: [Jekyll, HADDOCK, Bonvin, Docking, Simulation, Molecular Dynamics, Structural Biology, Computational Biology, Modelling, Protein Structure]
 comments: false
 title: Software
