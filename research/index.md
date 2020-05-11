@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: single
 tags: [Jekyll, HADDOCK, Bonvin, Docking, Simulation, Molecular Dynamics, Structural Biology, Computational Biology, Modelling, Protein Structure]
-modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
-image:
-  feature: pages/banner_research-mini.jpg
+title: Research
+header:
+  overlay_image: /assets/images/main_banner.png
 ---
 
 Research within the computational structural biology group focuses on the development of reliable bioinformatics and computational 

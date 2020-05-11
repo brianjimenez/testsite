@@ -1,9 +1,10 @@
 ---
-layout: page
-title: "Publications"
-image:
-  feature: pages/banner_publications-mini.jpg
+layout: single
+title: Publications
+header:
+  overlay_image: /assets/images/main_banner.png
 ---
+
 ## 2020
 
 * F. Ambrosetti, Zuzana Jandova and **A.M.J.J. Bonvin**. [A protocol for information-driven antibody-antigen modelling with the HADDOCK2.4 webserver](http://arxiv.org/abs/2005.03283). _ArXiv_, 2005.03283 (2020).
