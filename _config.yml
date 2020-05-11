@@ -57,22 +57,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Alexandre M.J.J. Bonvin"
+  name   : ""
   avatar : "/assets/images/bio-haddock.png"
   bio    : "Computational Structural Biology group focusing on dissecting, understanding and predicting biomolecular interactions at the molecular level."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Youtube"
+      icon: "fas fa-fw fa-youtube"
+      url: "https://youtube.com/haddocking"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/haddocking"
 
 footer:
   links:
