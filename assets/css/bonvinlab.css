@@ -84,3 +84,15 @@ page__footer-follow {
 	height: 42px;
 	margin-bottom: 40px;
 }
+
+/* People */
+.people ul {
+	list-style-type: none;
+}
+
+.people li {
+	width: 23%;
+	border: 1px solid lightgray;
+	margin-right: 1em;
+	display: inline-block;
+}
