@@ -1,8 +1,8 @@
-a, a:visited {
+article > a, article> a:visited {
 	color: #4277c3;
 }
 
-a:hover {
+article > a:hover {
 	color: #264879;
 }
 
