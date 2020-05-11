@@ -1,8 +1,8 @@
-article > a, article> a:visited {
+.archive__item-title a, a:visited {
 	color: #4277c3;
 }
 
-article > a:hover {
+.archive__item-title a:hover {
 	color: #264879;
 }
 
