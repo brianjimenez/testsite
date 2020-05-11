@@ -56,13 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
+  name   : "Alexandre Bonvin"
   avatar : "/assets/images/bio-haddock.png"
   bio    : "Computational Structural Biology group focusing on dissecting, understanding and predicting biomolecular interactions at the molecular level."
   links:
-    - label: "Youtube"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://youtube.com/haddocking"
+      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/haddocking"
