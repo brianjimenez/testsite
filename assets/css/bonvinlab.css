@@ -1,7 +1,12 @@
+footer {
+	text-align: center;
+}
+
 .footer-ack {
 	text-align: center;
 }
 
 .footer-ack img {
-	padding-right: 10px;
+	padding-right: 25px;
+	height: 42px;
 }
