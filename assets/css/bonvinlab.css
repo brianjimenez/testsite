@@ -1,3 +1,11 @@
+a {
+	color: #4277c3;
+}
+
+a:hover {
+	color: #264879;
+}
+
 /* Header */
 .page__hero--overlay {
 	padding: 2em 0;
