@@ -66,6 +66,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/haddocking"
+    - label: "Email"
+      icon: "fas fa-fw fa-email"
+      url: "mailto:a.m.j.j.bonvin@uu.nl"
 
 footer:
   links:
@@ -73,7 +76,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/haddocking"
     - label: "Youtube"
-      icon: "fab fa-fw fa-youtube-play"
+      icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/haddocking"
 
 defaults:
