@@ -1,3 +1,4 @@
+/* Archive */
 .archive__item-title a {
 	color: #4277c3;
 	text-decoration: none;
@@ -13,6 +14,12 @@
 	text-decoration: none;
 }
 
+.archive {
+	padding-right: 0;
+	padding-left: 3.5em;
+}
+
+/* Page */
 .page__content a {
 	color: #4277c3;
 	text-decoration: none;
@@ -26,6 +33,11 @@
 .page__content a:hover {
 	color: #264879;
 	text-decoration: none;
+}
+
+.page {
+	padding-right: 0;
+	padding-left: 3.5em;
 }
 
 /* Header */
