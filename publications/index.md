@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Publications
+classes: wide
 header:
   overlay_image: /assets/images/main_banner.png
 ---
