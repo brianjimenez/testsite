@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: splash
 title: HADDDOCK COVID drug repurpusing
 date: 2020-04-17
 excerpt: HADDOCK screen of 2000 approved drugs for COVID-19
