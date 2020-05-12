@@ -104,3 +104,8 @@ page__footer-follow {
 .page__share a:visited {
 	color: #fff !important;
 }
+
+/* News */
+.news {
+	margin-top: 3.5em;
+}
