@@ -19,6 +19,12 @@
 	padding-left: 3.5em;
 }
 
+/* Share */
+
+.page__share a {
+	color: #fff;
+}
+
 /* Page */
 .page__content a {
 	color: #4277c3;
