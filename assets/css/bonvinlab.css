@@ -109,3 +109,8 @@ page__footer-follow {
 .news {
 	margin-top: 3.5em;
 }
+
+/* Share */
+.page__share {
+	text-align: center;
+}
