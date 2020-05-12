@@ -19,12 +19,6 @@
 	padding-left: 3.5em;
 }
 
-/* Share */
-
-.page__share a {
-	color: #fff;
-}
-
 /* Page */
 .page__content a {
 	color: #4277c3;
@@ -102,4 +96,11 @@ page__footer-follow {
 	margin-right: 1%;
 	display: inline-block;
 	padding: 5px 10px;
+}
+
+/* Share */
+.page__share a,
+.page__share a:hover,
+.page__share a:visited {
+	color: #fff !important;
 }
